@@ -1,0 +1,29 @@
+.altura {
+   
+    background-color: rgb(255, 126, 5);
+    width: 500px;
+    height: 500px;
+}
+.filho {
+    background-color: lightgreen;
+    width: 250px;
+    height: 250px;
+
+}
+.paragrafo {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+}
+.bod{
+    width: 50%;
+    height: 50%;
+
+    color: blue;
+    }
+    .d{
+        width: 75%;
+        height: 25%;
+        background-color: red;
+    }

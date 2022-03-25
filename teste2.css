@@ -1,0 +1,41 @@
+.a{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-bottom: 3px solid green; 
+    align-items: center;
+
+}
+.b {
+    background-color: blueviolet;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    border-top: 3px solid blue;
+}
+.c {
+    background-color: green;
+    width:88%;
+    height: 30%;
+}
+
+body {
+    background-color: gray;
+    height: 700px;
+    width: 50%;
+    display: flex;
+}
+.d
+{color: white;
+background-color: red;
+font-size: 25px;
+font-family: monospace;
+width: 30%;
+}
+.e {
+    background-color: green;
+    color: aliceblue;
+    font-size: 30px;
+    
+}
+    
